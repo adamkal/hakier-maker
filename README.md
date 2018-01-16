@@ -28,6 +28,13 @@ Implement algorithm solving [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz) 
 * `pip install -r requirements.txt` will install required packages
 * `pytest` - runs tests
 
+
+# Usefull stuff
+
+* http://repl.it/ - code and run programs online for free
+* https://www.hackerrank.com - nice problems to challenge yourself
+
+
 ## Contributors
 
 * Adam Kaliński
