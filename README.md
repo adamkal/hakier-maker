@@ -31,9 +31,15 @@ Implement algorithm solving [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz) 
 
 # Usefull stuff
 
+### Sites
 * http://repl.it/ - code and run programs online for free
 * https://www.hackerrank.com - nice problems to challenge yourself
 
+### Tools
+* https://atom.io/
+* https://code.visualstudio.com/
+* https://www.sublimetext.com/3
+* https://www.jetbrains.com/pycharm/download/
 
 ## Contributors
 
