@@ -19,7 +19,7 @@ def fizzbuzz_maciek(i):
     elif not (i % 5):
         wynik="Buzz"
     else: wynik=str(i)
-#        wynik="FizzBuzz"
+#        dupa dupa dupa
 
     return wynik
 
