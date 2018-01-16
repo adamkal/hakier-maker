@@ -2,7 +2,7 @@ import fizzbuzz
 
 
 def test_fizzbuzz_0():
-    assert fizzbuzz.fizzbuzz(0) == "FizzBuzz"
+    assert fizzbuzz.fizzbuzz(15) == "FizzBuzz"
 
 
 def test_fizzbuzz_3():
