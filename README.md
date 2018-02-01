@@ -44,3 +44,4 @@ Implement algorithm solving [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz) 
 ## Contributors
 
 * Adam Kaliński
+* Maciek Kalinowski
