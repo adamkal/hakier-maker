@@ -130,7 +130,7 @@ atutem.
 
 `pipenv`'a używa się bardzo podobnie do normalnego `pip`a:
 
-`pipenv install tablib` - instaluje paczkę
-`pipenv run todo.py` - uruchom program w tym środowisku
-`pipenv shell` - wejdź do wirtualnego środowiska (wygląda jak normalne tylko
-używa środowiska wirtualnego zamiast systemowego pythona)
+* `pipenv install tablib` - instaluje paczkę
+* `pipenv run todo.py` - uruchom program w tym środowisku
+* `pipenv shell` - wejdź do wirtualnego środowiska (wygląda jak normalne tylko
+  używa środowiska wirtualnego zamiast systemowego pythona)
